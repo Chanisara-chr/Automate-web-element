@@ -1,2 +1,2 @@
 # Automate Web Element
-Automated tests for essential web elements like authentication, checkboxes, listboxes, and radio buttons ensure proper user interaction within the application.
+Interactive Element Testing:  This project explores automated scripts for essential web elements (authentication, checkboxes, listboxes, radio buttons). The scripts ensure proper user interaction and functionality, contributing to a positive user experience.
